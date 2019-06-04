@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ledstrip_controller</string>
+    <string name="no_specified_remote">"Remote isn't specified"</string>
+    <string name="no_specified_commands">"Commands aren't specified"</string>
+    <string name="remote_name">Remote Name:</string>
+    <string name="remote_base_url">Remote Base URL:</string>
+    <string name="button_name">Button Name:</string>
+    <string name="command_url">Command URL:</string>
+    <string name="button_color">Button Color:</string>
+    <string name="add_command">Add Command</string>
+    <string name="number_of_commands">Number of commands:</string>
+    <string name="_0">0</string>
+    <string name="done">DONE</string>
+    <string name="remote">remote</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="now_controlling">Now controlling:</string>
+    <string name="title">Title</string>
+    <string name="only_ip">Only IP</string>
+    <string name="led_state_1">/led?state=1</string>
+    <string name="remoteUpdated">Remote Updated</string>
+
+</resources>

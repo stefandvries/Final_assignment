@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_remotes"
+        android:icon="@drawable/ic_settings_remote_black_24dp"
+        android:title="Remotes"/>
+
+    <item
+        android:id="@+id/nav_favorites"
+        android:icon="@drawable/ic_favorite_black_24dp"
+        android:title="Favorite"/>
+
+    <item
+        android:id="@+id/nav_settings"
+        android:icon="@drawable/ic_settings_black_24dp"
+        android:title="Settings"/>
+</menu>
